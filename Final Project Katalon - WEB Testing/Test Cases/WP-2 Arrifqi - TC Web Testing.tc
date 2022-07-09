@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Arrifqi - TC Web Testing
+Description: Final Project for Automated Testing with Katalon Studio
+
+Target WEB Testing : [https://kotakoki.wijaysali.my.id/|https://kotakoki.wijaysali.my.id/|smart-link]  </description>
+   <name>WP-2 Arrifqi - TC Web Testing</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10029&quot;:&quot;Feature: Register to website\n\nScenario: Register with valid data\nGiven a web browser is on the \&quot;https://kotakoki.wijaysali.my.id/\&quot;\nWhen I go to register page\nThen I fill the username with \&quot;arrifqiaziz\&quot;\nAnd I fill the email with \&quot;arrifqiaziz@gmail.com\&quot;\nAnd I fill the phone number with \&quot;082111178380\&quot;\nAnd I fill the password with \&quot;arrifqi123\&quot;\nAnd I fill the address with \&quot;Bogor\&quot;\nThen I click on register button\nThen I verify that I successfully registered&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0001b:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://timbelajar3.atlassian.net/&quot;,&quot;self&quot;:&quot;https://timbelajar3.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://timbelajar3.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;WP&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;Web Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Arrifqi - TC Web Testing&quot;,&quot;description&quot;:&quot;Final Project for Automated Testing with Katalon Studio\n\nTarget WEB Testing : [https://kotakoki.wijaysali.my.id/|https://kotakoki.wijaysali.my.id/|smart-link]  &quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;arrifqiaziz@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Arrifqi Aziz Ardhiansyah&quot;,&quot;self&quot;:&quot;https://timbelajar3.atlassian.net/rest/api/2/user?accountId\u003d70121%3A91f159b1-305e-49ca-a911-a6ecd8c630d8&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://timbelajar3.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://timbelajar3.atlassian.net/rest/api/2/issue/WP-2/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://timbelajar3.atlassian.net/rest/api/2/issue/10008&quot;,&quot;key&quot;:&quot;WP-2&quot;,&quot;id&quot;:10008}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>8df220dc-b8fa-4193-aa00-9d725ccdb91b</testCaseGuid>
+</TestCaseEntity>
