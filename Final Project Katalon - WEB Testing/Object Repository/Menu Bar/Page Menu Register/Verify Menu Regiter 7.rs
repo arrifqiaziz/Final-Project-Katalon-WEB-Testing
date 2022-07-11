@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify Menu Regiter 7</name>
+   <tag></tag>
+   <elementGuidId>34939c81-87e0-4bc4-a48f-de752509dd43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='um_field_297_Relative_adress']/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#um_field_297_Relative_adress > div.um-field-label > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f0ffedfd-db6e-410c-a254-664fade37b22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Relative_adress-297</value>
+      <webElementGuid>c822315e-5f2b-448b-97f2-a43ee0543d6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Address</value>
+      <webElementGuid>71455da3-81ac-44df-a863-2052e1572d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;um_field_297_Relative_adress&quot;)/div[@class=&quot;um-field-label&quot;]/label[1]</value>
+      <webElementGuid>6b545546-e3e1-41c5-9b00-f9b5d81743ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='um_field_297_Relative_adress']/div/label</value>
+      <webElementGuid>1db05489-9cec-4604-be16-357fca1f9a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password'])[1]/following::label[1]</value>
+      <webElementGuid>f81dd675-09db-4e3c-b3a3-1763624cf184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::label[2]</value>
+      <webElementGuid>27883631-2700-4459-8046-e0920b89ce05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only fill in if you are not human'])[1]/preceding::label[1]</value>
+      <webElementGuid>b3f8f4ff-db7e-4396-96e4-f96bbed24977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter'])[1]/preceding::label[2]</value>
+      <webElementGuid>4add2ebc-2266-4511-b2fc-35d71aacac32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Address']/parent::*</value>
+      <webElementGuid>af7bd70e-5996-4da9-9aed-70ff93b2e74d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/label</value>
+      <webElementGuid>bd2c7b12-dd58-4285-bbf1-987bd98a68a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Address' or . = 'Address')]</value>
+      <webElementGuid>139f090c-16bc-442b-9775-1a536aa0df35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify Menu About Us 2</name>
+   <tag></tag>
+   <elementGuidId>99d5daab-c18b-410b-a7b1-678e0e4d29b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-247']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.has-medium-font-size</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4f530b4f-ce8a-40d5-862b-0e00fad03055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>has-medium-font-size</value>
+      <webElementGuid>e72efea8-cb9f-499d-88ea-6ad6cf22fcb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Here’s a little story from Kotakoki. </value>
+      <webElementGuid>3766492b-3837-47d2-b09e-c8371415f9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-247&quot;)/div[@class=&quot;entry-content&quot;]/p[@class=&quot;has-medium-font-size&quot;]</value>
+      <webElementGuid>70c57bbb-b70d-4bd0-82db-aee33aa81902</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-247']/div/p</value>
+      <webElementGuid>a807852e-0b44-45aa-8cfd-118bb5ae1a6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENG'])[1]/following::p[1]</value>
+      <webElementGuid>ac3a5b39-2983-407c-abfa-466fe3f55121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::p[1]</value>
+      <webElementGuid>0bab5c05-c47d-475e-8579-0ef57e9d3c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='box'])[1]/preceding::p[1]</value>
+      <webElementGuid>8515d598-e22b-42ed-8e5d-061429ca79e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chef'])[1]/preceding::p[1]</value>
+      <webElementGuid>618b5f1c-aa52-4b2f-a179-9108a947f58a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/p</value>
+      <webElementGuid>62679cbe-399e-4ab9-8054-f8aaa7655543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Here’s a little story from Kotakoki. ' or . = 'Here’s a little story from Kotakoki. ')]</value>
+      <webElementGuid>6726adae-935c-4eee-b390-527f5b3eefd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

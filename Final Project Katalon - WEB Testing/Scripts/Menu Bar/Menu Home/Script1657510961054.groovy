@@ -21,5 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
+WebUI.click(findTestObject('Menu Bar/Menu Home'))
+
+WebUI.verifyElementPresent(findTestObject('Menu Bar/Page Menu Home/Verify Home 1'), 1)
+
+WebUI.verifyElementPresent(findTestObject('Menu Bar/Page Menu Home/Verify Home 2'), 1)
+
 WebUI.closeBrowser()
 

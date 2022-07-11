@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify Menu About Us 3</name>
+   <tag></tag>
+   <elementGuidId>138e7ed9-3fe2-48ee-8d4e-033f8d501cd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-247']/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1a08030d-a1b1-4c8d-8995-05fca88e5ec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>has-medium-font-size</value>
+      <webElementGuid>041f1b67-9bac-4a3d-b536-55e1577dd951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In Indonesian language, “kotak” means box and “koki” means chef. With Kotakoki or “Chef Box”, anyone with a passion for Indonesian culinary can be a chef of authentic Indonesian foods.</value>
+      <webElementGuid>2f7efce1-5d70-4ea1-9889-972b7386284c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-247&quot;)/div[@class=&quot;entry-content&quot;]/p[@class=&quot;has-medium-font-size&quot;]</value>
+      <webElementGuid>35620077-f56e-434a-b2cf-1acd64e89090</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-247']/div/p[2]</value>
+      <webElementGuid>95a82848-5813-441d-8c55-4d41fe4fc763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENG'])[1]/following::p[2]</value>
+      <webElementGuid>794d119f-1223-47b9-b4e9-a3bab3b0779e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::p[2]</value>
+      <webElementGuid>952f95a0-7b29-4174-8152-539eb3b26d87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>9174176c-b2a9-48e3-a585-c07e90213c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'In Indonesian language, “kotak” means box and “koki” means chef. With Kotakoki or “Chef Box”, anyone with a passion for Indonesian culinary can be a chef of authentic Indonesian foods.' or . = 'In Indonesian language, “kotak” means box and “koki” means chef. With Kotakoki or “Chef Box”, anyone with a passion for Indonesian culinary can be a chef of authentic Indonesian foods.')]</value>
+      <webElementGuid>9935d2ab-13be-4e45-81f8-6f1c673231f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

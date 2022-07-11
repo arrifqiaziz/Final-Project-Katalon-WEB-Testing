@@ -21,5 +21,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
+WebUI.click(findTestObject('Menu Bar/Menu Register Now'))
+
+WebUI.verifyElementPresent(findTestObject('Menu Bar/Page Menu Register/Verify Menu Regiter 1'), 1)
+
+WebUI.verifyElementPresent(findTestObject('Menu Bar/Page Menu Register/Verify Menu Regiter 2'), 1)
+
+WebUI.verifyElementPresent(findTestObject('Menu Bar/Page Menu Register/Verify Menu Regiter 3'), 1)
+
+WebUI.verifyElementPresent(findTestObject('Menu Bar/Page Menu Register/Verify Menu Regiter 4'), 1)
+
+WebUI.verifyElementPresent(findTestObject('Menu Bar/Page Menu Register/Verify Menu Regiter 5'), 1)
+
+WebUI.verifyElementPresent(findTestObject('Menu Bar/Page Menu Register/Verify Menu Regiter 6'), 1)
+
+WebUI.verifyElementPresent(findTestObject('Menu Bar/Page Menu Register/Verify Menu Regiter 7'), 1)
+
+WebUI.verifyElementPresent(findTestObject('Menu Bar/Page Menu Register/Verify Menu Regiter 8'), 1)
+
 WebUI.closeBrowser()
 
