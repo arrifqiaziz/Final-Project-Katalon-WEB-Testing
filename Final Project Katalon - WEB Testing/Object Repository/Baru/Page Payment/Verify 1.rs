@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify 1</name>
+   <tag></tag>
+   <elementGuidId>a8ee005b-3ce8-479d-a0f5-6458655b4946</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>156d894f-b82f-4988-9736-e48b643cff67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-4 last:mb-0 font-sans font-light text-2xl text-gray-500</value>
+      <webElementGuid>65688440-e767-43cb-a78c-b342394fe1bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1076648095384</value>
+      <webElementGuid>9ff3ab3c-4fda-41c7-9330-4d4ca956ddbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 mx-32 w-3/5&quot;]/div[@class=&quot;mt-6&quot;]/div[@class=&quot;p-6 sm:p-8 flex flex-col-reverse sm:flex-row justify-between border-thin border-gray-100 rounded-sm&quot;]/div[1]/div[@class=&quot;flex justify-between sm:justify-start&quot;]/div[@class=&quot;mb-4 last:mb-0 font-sans font-light text-2xl text-gray-500&quot;]</value>
+      <webElementGuid>ff1dcc4c-c966-42aa-ac79-32d4f611423a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>0651200d-b3f0-446c-a981-41274fe7bd15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Account#'])[1]/following::div[2]</value>
+      <webElementGuid>6712194e-1003-43a6-a644-8c2c34e48aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[2]/following::div[6]</value>
+      <webElementGuid>dc4244b8-0448-4dd5-80ab-41cf99db4a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy Account Number'])[1]/preceding::div[2]</value>
+      <webElementGuid>16000d0e-4f94-4cdf-bd92-6f295370b67e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Virtual Account'])[1]/preceding::div[3]</value>
+      <webElementGuid>7ea2b3f2-b07a-4232-bc1e-b6de7266b0ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1076648095384']/parent::*</value>
+      <webElementGuid>4f8a3b36-66f5-4c3a-ac45-edbacf3505d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>a002b228-7ecc-496a-8fd8-f5e1a5d1eb33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1076648095384' or . = '1076648095384')]</value>
+      <webElementGuid>3bf60424-5101-459c-a9e4-259f2d81377c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

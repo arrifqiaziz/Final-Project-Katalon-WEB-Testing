@@ -17,17 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Search Product/Search Success'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
+WebUI.click(findTestObject('Page Cart/btn Add to cart'))
 
-WebUI.setText(findTestObject('Header/Search Product'), 'cap')
+WebUI.verifyElementPresent(findTestObject('Page Cart/Verify Add to Cart'), 0)
 
-WebUI.click(findTestObject('Header/Search Product'))
-
-WebUI.verifyElementPresent(findTestObject('Header/Suggestion Search Cap'), 1)
-
-WebUI.click(findTestObject('Header/Suggestion Search Cap'))
-
-WebUI.verifyElementText(findTestObject('Header/Search Result Cap'), 'Cap')
+WebUI.click(findTestObject('Header/Cart'))
 

@@ -17,17 +17,33 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Add to Cart/Add to Cart'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
+WebUI.click(findTestObject('Page Cart/Cart Checkout to Payment'))
 
-WebUI.setText(findTestObject('Header/Search Product'), 'cap')
+WebUI.setText(findTestObject('Page Checkout/Input First Name'), 'Arrifqi')
 
-WebUI.click(findTestObject('Header/Search Product'))
+WebUI.setText(findTestObject('Page Checkout/Input Last Name'), 'Aziz')
 
-WebUI.verifyElementPresent(findTestObject('Header/Suggestion Search Cap'), 1)
+WebUI.setText(findTestObject('Page Checkout/Input Company'), 'PT BFI')
 
-WebUI.click(findTestObject('Header/Suggestion Search Cap'))
+WebUI.setText(findTestObject('Page Checkout/Input Email'), 'arrifqi@gmail.com')
 
-WebUI.verifyElementText(findTestObject('Header/Search Result Cap'), 'Cap')
+WebUI.setText(findTestObject('Page Checkout/Input Phone'), '08211178380')
+
+WebUI.setText(findTestObject('Page Checkout/Input Address 1'), 'Bogor')
+
+WebUI.setText(findTestObject('Page Checkout/Input Address 2'), 'Leuwisadeng')
+
+WebUI.setText(findTestObject('Page Checkout/Input Address Postcode'), '16640')
+
+WebUI.setText(findTestObject('Page Checkout/Input City'), 'Kabupaten Bogor')
+
+WebUI.click(findTestObject('Page Checkout/Select Province'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Page Checkout/Select Province Jawa Barat'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('Page Checkout/Total'), 1)
+
+WebUI.click(findTestObject('Page Checkout/Tranfer Bank BRI'))
 

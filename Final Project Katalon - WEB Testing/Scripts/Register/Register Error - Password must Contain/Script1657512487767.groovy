@@ -21,5 +21,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
+WebUI.click(findTestObject('Menu Bar/Menu Register Now'))
+
+WebUI.setText(findTestObject('Page Register/Input Username'), 'arrifqiaziz')
+
+WebUI.setText(findTestObject('Page Register/Input Email'), 'arrifqiaziz@gmail.com')
+
+WebUI.setText(findTestObject('Page Register/Input Phone'), '082111178380')
+
+WebUI.setText(findTestObject('Page Register/Input Password'), 'arrifqiaziz')
+
+WebUI.setText(findTestObject('Page Register/Input Confirm Password'), 'arrifqiaziz')
+
+WebUI.setText(findTestObject('Page Register/Input Address'), 'Bogor')
+
+WebUI.click(findTestObject('Page Register/btn Register'))
+
+WebUI.verifyElementPresent(findTestObject('Page Register/Error Password must contains'), 1)
+
 WebUI.closeBrowser()
 
