@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Suggestion Search Cap</name>
+   <tag></tag>
+   <elementGuidId>c5d31cf1-112e-4146-af0c-2909a42f1c33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Suggestions'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.product-search-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f8338a6-f5aa-41b0-89a7-7155c5cb72cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-search-title</value>
+      <webElementGuid>7623111e-cff2-4a8b-b048-10d0bd902fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cap</value>
+      <webElementGuid>4f9f4496-0671-4847-9459-ee4bc902154c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js_active vc_desktop vc_transform vc_transform&quot;]/body[@class=&quot;home page-template-default page page-id-152 page-child parent-pageid-150 wp-embed-responsive theme-the-hanger woocommerce-js wpb-js-composer js-comp-ver-6.7.0 vc_responsive site-main-font header-layout-full content-layout-full page-without-title footer-layout-boxed&quot;]/div[@class=&quot;site-wrapper&quot;]/header[@class=&quot;site-header site-header-style-1 header-normal&quot;]/div[@class=&quot;row small-collapse&quot;]/div[@class=&quot;small-12 columns&quot;]/div[@class=&quot;header-content&quot;]/div[@class=&quot;header-line-1&quot;]/div[@class=&quot;row align-middle&quot;]/div[@class=&quot;small-12 medium-8 large-9 columns&quot;]/div[@class=&quot;header-line-1-wrapper&quot;]/div[@class=&quot;header-search&quot;]/form[@class=&quot;header_search_form active&quot;]/div[@class=&quot;header_search_ajax_results_wrapper visible animated&quot;]/div[@class=&quot;header_search_ajax_results&quot;]/div[@class=&quot;ajax_results_wrapper&quot;]/div[@class=&quot;product-search-result&quot;]/a[1]/div[@class=&quot;product-search-info&quot;]/span[@class=&quot;product-search-title&quot;]</value>
+      <webElementGuid>ea8ded4b-e86a-404c-8536-5cd09e01c9fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Suggestions'])[1]/following::span[1]</value>
+      <webElementGuid>4f1c0c6f-1e92-454b-9f25-bd02c92f8fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[1]/preceding::span[1]</value>
+      <webElementGuid>23a0b4bf-f286-45aa-9b37-1acb841664b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/preceding::span[3]</value>
+      <webElementGuid>52b00931-2636-4257-b471-4e71c905f1c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cap']/parent::*</value>
+      <webElementGuid>b2ec89c7-46b8-4cb5-9a19-95be9cd975e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>d2e12164-7cbf-46ca-b236-1005f185d08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cap' or . = 'Cap')]</value>
+      <webElementGuid>f8180db8-5212-4e29-8145-1b3b932faac4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
