@@ -25,3 +25,9 @@ WebUI.verifyElementPresent(findTestObject('Page Cart/Verify Add to Cart'), 0)
 
 WebUI.click(findTestObject('Header/Cart'))
 
+if (WebUI.verifyElementClickable(findTestObject('Header/Cart'), FailureHandling.OPTIONAL)) {
+    WebUI.click(findTestObject('Page Cart/Cart Checkout to Payment'))
+} else {
+    WebUI.click(findTestObject('Page Cart/btn Continue Shopping'))
+}
+
