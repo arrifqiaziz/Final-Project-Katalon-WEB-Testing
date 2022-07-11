@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn Payment</name>
+   <name>Click to Payment</name>
    <tag></tag>
-   <elementGuidId>a7bf2db8-038d-4106-8463-0ede9e5037a3</elementGuidId>
+   <elementGuidId>3f2efb18-880f-44a2-928d-9d31c193ebc4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0c896953-2f7c-4a87-a4ee-2ad01c5f9f01</webElementGuid>
+      <webElementGuid>979f318e-08d8-469f-ae6e-683a66443c08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>text-white font-semibold underline focus:outline-none</value>
-      <webElementGuid>c35dfd62-bd57-4358-8a6d-19b2584089ec</webElementGuid>
+      <webElementGuid>4b1dcd53-81fb-4b6f-b4a8-07a834cd738d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Klik disini untuk simulasi pembayaran dengan BCA</value>
-      <webElementGuid>2166333c-e0c2-462a-ba47-c36760c809cd</webElementGuid>
+      <value>Klik disini untuk simulasi pembayaran dengan BRI</value>
+      <webElementGuid>067257ab-f25f-4cb6-bfab-dd5d02042986</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;px-4 sm:px-20 md:px-lg py-2 sticky sm:relative top-0 z-10 bg-red-500 font-sans text-center text-xs sm:text-sm font-semibold&quot;]/button[@class=&quot;text-white font-semibold underline focus:outline-none&quot;]</value>
-      <webElementGuid>cb48cde0-3876-4153-9142-6f497b8f6572</webElementGuid>
+      <webElementGuid>9313f237-b357-4684-a2bd-12048b7c30ed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/button</value>
-      <webElementGuid>2f42b523-1140-4dbc-8c31-43cc9ff1318b</webElementGuid>
+      <webElementGuid>ab748fb5-7122-4db2-9da7-eb5095c9e742</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IDLC'])[1]/preceding::button[1]</value>
-      <webElementGuid>49c1cca5-1ad5-4803-9536-b3efcd65a83a</webElementGuid>
+      <webElementGuid>4fa4a200-9914-400c-b693-13ffe38373ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/preceding::button[1]</value>
-      <webElementGuid>42773786-4d26-4568-9626-e9c3b167666b</webElementGuid>
+      <webElementGuid>c2945ccd-a1b4-4814-9ce9-2e7c8e9e85d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Klik disini untuk simulasi pembayaran dengan BCA']/parent::*</value>
-      <webElementGuid>51507ec3-7a44-443b-8fea-722ad937a5f7</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Klik disini untuk simulasi pembayaran dengan BRI']/parent::*</value>
+      <webElementGuid>31fa7b09-0324-4c17-9582-6e3140185fb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,14 +86,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>98d7be5b-8782-44b9-97d9-d6e8efa97073</webElementGuid>
+      <webElementGuid>fbc57c37-5461-40c7-b7a9-5978f634d4de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Klik disini untuk simulasi pembayaran dengan BCA' or . = 'Klik disini untuk simulasi pembayaran dengan BCA')]</value>
-      <webElementGuid>322c5169-6814-4c13-ac22-189c69906aa8</webElementGuid>
+      <value>//button[(text() = 'Klik disini untuk simulasi pembayaran dengan BRI' or . = 'Klik disini untuk simulasi pembayaran dengan BRI')]</value>
+      <webElementGuid>5e7255cf-4291-469e-aee0-889753f68c99</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

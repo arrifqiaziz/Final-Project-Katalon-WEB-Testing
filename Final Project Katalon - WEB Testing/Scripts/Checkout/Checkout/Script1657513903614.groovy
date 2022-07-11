@@ -41,9 +41,9 @@ WebUI.setText(findTestObject('Page Checkout/Input City'), 'Kabupaten Bogor')
 
 WebUI.click(findTestObject('Page Checkout/Select Province'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page Checkout/Select Province Jawa Barat'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementPresent(findTestObject('Page Checkout/Total'), 1)
-
 WebUI.click(findTestObject('Page Checkout/Tranfer Bank BRI'))
+
+WebUI.verifyElementPresent(findTestObject('Page Checkout/Verify'), 1)
+
+WebUI.click(findTestObject('Page Checkout/btn Place Order and do Payment'))
 

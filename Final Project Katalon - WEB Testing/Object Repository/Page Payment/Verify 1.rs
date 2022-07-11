@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify 1</name>
+   <tag></tag>
+   <elementGuidId>0a2cf032-665e-468f-aa32-6c22fc2c4c2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-2xl.font-semibold.capitalize</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b19cecf0-a355-4115-9577-922c23c9caaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-2xl font-semibold capitalize</value>
+      <webElementGuid>cd8cc037-d67c-4a8c-bd64-5e8dc7ac1d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ringkasan pesanan</value>
+      <webElementGuid>58a5a3e1-833e-44bf-9b2e-eb4f7fabf81f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 px-16 w-2/5 bg-gray-100 bg-opacity-50 divide-y divide-gray-200 divide-solid&quot;]/div[@class=&quot;pb-2&quot;]/p[@class=&quot;text-2xl font-semibold capitalize&quot;]</value>
+      <webElementGuid>9ddce38f-ffc3-4353-9d4f-59a3b62be136</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/p</value>
+      <webElementGuid>dea6a52e-7b4d-4c58-bc75-d98a171afa76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('2. Periksa data transaksi dan tekan ', '&quot;', 'YA', '&quot;', '')])[1]/following::p[2]</value>
+      <webElementGuid>061b0523-0f40-4290-8281-017835479cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='woocommerce-xendit-386'])[1]/preceding::p[1]</value>
+      <webElementGuid>2d4b429a-76e8-4e51-8c93-e4a51193fd6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ringkasan pesanan']/parent::*</value>
+      <webElementGuid>45931a64-43b2-477b-b7d5-e3208b5a43a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>0c80b4e7-92f0-43dd-9a51-e4de6201f0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'ringkasan pesanan' or . = 'ringkasan pesanan')]</value>
+      <webElementGuid>ae70d174-e327-422e-8276-2d2717552f4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

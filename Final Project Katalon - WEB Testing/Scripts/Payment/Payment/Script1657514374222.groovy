@@ -19,13 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Checkout/Checkout'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('Baru/Page Payment/Verify 1'), 1)
+WebUI.verifyElementPresent(findTestObject('Page Payment/Verify 1'), 1)
 
-WebUI.verifyElementPresent(findTestObject('Baru/Page Payment/Verify 2'), 1)
+WebUI.verifyElementPresent(findTestObject('Page Payment/Verify 2'), 1)
 
-WebUI.verifyElementPresent(findTestObject('Baru/Page Payment/Verify 3'), 1)
+WebUI.verifyElementPresent(findTestObject('Page Payment/Verify 3'), 1)
 
-WebUI.verifyElementPresent(findTestObject('Baru/Page Payment/Verify Payment Success'), 1)
+WebUI.click(findTestObject('Page Payment/Click to Payment'))
+
+WebUI.delay(5)
+
+WebUI.verifyElementPresent(findTestObject('Page Payment/Payment Success'), 1)
+
+WebUI.delay(5)
+
+WebUI.verifyElementPresent(findTestObject('Page Payment/Verify Payment Success'), 1)
 
 WebUI.closeBrowser()
 

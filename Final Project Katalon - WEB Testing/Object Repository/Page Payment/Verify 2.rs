@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Verify 1</name>
+   <name>Verify 2</name>
    <tag></tag>
-   <elementGuidId>a8ee005b-3ce8-479d-a0f5-6458655b4946</elementGuidId>
+   <elementGuidId>49455f0a-fd50-42c3-8067-fae174513db0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div[3]/table[2]/tbody/tr/td</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>td.pr-4.py-4</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>156d894f-b82f-4988-9736-e48b643cff67</webElementGuid>
+      <value>td</value>
+      <webElementGuid>1fa0b0d4-3212-4890-8933-566c1084f3dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mb-4 last:mb-0 font-sans font-light text-2xl text-gray-500</value>
-      <webElementGuid>65688440-e767-43cb-a78c-b342394fe1bc</webElementGuid>
+      <value>pr-4 py-4</value>
+      <webElementGuid>613a0da9-d9b0-4f33-8f42-9ce0678be6b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>1076648095384</value>
-      <webElementGuid>9ff3ab3c-4fda-41c7-9330-4d4ca956ddbd</webElementGuid>
+      <value>Jumlah Total</value>
+      <webElementGuid>8323c885-8ef5-4c14-a045-3b16894219c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 mx-32 w-3/5&quot;]/div[@class=&quot;mt-6&quot;]/div[@class=&quot;p-6 sm:p-8 flex flex-col-reverse sm:flex-row justify-between border-thin border-gray-100 rounded-sm&quot;]/div[1]/div[@class=&quot;flex justify-between sm:justify-start&quot;]/div[@class=&quot;mb-4 last:mb-0 font-sans font-light text-2xl text-gray-500&quot;]</value>
-      <webElementGuid>ff1dcc4c-c966-42aa-ac79-32d4f611423a</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 px-16 w-2/5 bg-gray-100 bg-opacity-50 divide-y divide-gray-200 divide-solid&quot;]/div[@class=&quot;text-sm md:text-base&quot;]/table[@class=&quot;h-full mr-0 ml-auto w-full md:w-auto  mt-4&quot;]/tbody[1]/tr[@class=&quot;text-base text-left md:text-right font-semibold border-t border-gray-100 p-5&quot;]/td[@class=&quot;pr-4 py-4&quot;]</value>
+      <webElementGuid>adfbe482-220c-4003-a598-fe5ad0da88d8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div/div/div[2]/div</value>
-      <webElementGuid>0651200d-b3f0-446c-a981-41274fe7bd15</webElementGuid>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div[3]/table[2]/tbody/tr/td</value>
+      <webElementGuid>7011f9ae-8bfa-4ba3-b635-d4fd700de4ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Account#'])[1]/following::div[2]</value>
-      <webElementGuid>6712194e-1003-43a6-a644-8c2c34e48aaa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 16.000'])[4]/following::td[1]</value>
+      <webElementGuid>3162fa18-56ca-4dea-982c-2191a3d15284</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[2]/following::div[6]</value>
-      <webElementGuid>dc4244b8-0448-4dd5-80ab-41cf99db4a14</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[1]/following::td[2]</value>
+      <webElementGuid>76034ee0-8418-4669-9176-10740e94ccd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy Account Number'])[1]/preceding::div[2]</value>
-      <webElementGuid>16000d0e-4f94-4cdf-bd92-6f295370b67e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 16.000'])[5]/preceding::td[1]</value>
+      <webElementGuid>3f7e0ba1-26c4-4161-b5f7-ffb4cf011943</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Virtual Account'])[1]/preceding::div[3]</value>
-      <webElementGuid>7ea2b3f2-b07a-4232-bc1e-b6de7266b0ef</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::td[2]</value>
+      <webElementGuid>85329acb-a78e-485e-bca6-f1938aaf7506</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='1076648095384']/parent::*</value>
-      <webElementGuid>4f8a3b36-66f5-4c3a-ac45-edbacf3505d6</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Jumlah Total']/parent::*</value>
+      <webElementGuid>77ee48d4-dd02-4113-8dfb-f335c791d711</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div[2]/div/div/div[2]/div</value>
-      <webElementGuid>a002b228-7ecc-496a-8fd8-f5e1a5d1eb33</webElementGuid>
+      <value>//table[2]/tbody/tr/td</value>
+      <webElementGuid>c8958757-142f-4f96-9c13-36b21605b94b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '1076648095384' or . = '1076648095384')]</value>
-      <webElementGuid>3bf60424-5101-459c-a9e4-259f2d81377c</webElementGuid>
+      <value>//td[(text() = 'Jumlah Total' or . = 'Jumlah Total')]</value>
+      <webElementGuid>98c86b7c-1295-42ac-a412-9d3d7d3b8619</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
