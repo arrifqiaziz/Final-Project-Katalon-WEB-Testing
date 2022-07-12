@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Add to Cart/Add to Cart'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page Cart/Cart Checkout to Payment'))
-
 WebUI.setText(findTestObject('Page Checkout/Input First Name'), 'Arrifqi')
 
 WebUI.setText(findTestObject('Page Checkout/Input Last Name'), 'Aziz')
