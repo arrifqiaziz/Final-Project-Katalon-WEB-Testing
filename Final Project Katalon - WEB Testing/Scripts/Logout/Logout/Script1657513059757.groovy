@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Register/Resigter Success'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Register/Register Success'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page User Dashboard/Side Menu Logout'))
 

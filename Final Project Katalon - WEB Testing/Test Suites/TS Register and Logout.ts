@@ -57,7 +57,7 @@
       <guid>504f3250-1de0-42f4-98b6-ae40523f8571</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Register/Resigter Success</testCaseId>
+      <testCaseId>Test Cases/Register/Register Success</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
