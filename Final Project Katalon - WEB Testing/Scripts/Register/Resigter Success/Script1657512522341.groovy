@@ -23,9 +23,9 @@ WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
 WebUI.click(findTestObject('Menu Bar/Menu Register Now'))
 
-WebUI.setText(findTestObject('Page Register/Input Username'), 'arrifqi4')
+WebUI.setText(findTestObject('Page Register/Input Username'), 'arrifqi7')
 
-WebUI.setText(findTestObject('Page Register/Input Email'), 'arrifqi4@gmail.com')
+WebUI.setText(findTestObject('Page Register/Input Email'), 'arrifqi7@gmail.com')
 
 WebUI.setText(findTestObject('Page Register/Input Phone'), '082111178380')
 
