@@ -8,6 +8,7 @@ Target WEB Testing : https://kotakoki.wijaysali.my.id/</description>
    <UUID>25416eb3-3531-4cdc-a1b9-493d60972e1d</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\095053\Documents\Final Project Katalon\Final-Project-Katalon-WEB-Testing\Final Project Katalon - WEB Testing.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

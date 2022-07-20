@@ -45,3 +45,5 @@ WebUI.verifyElementPresent(findTestObject('Page Checkout/Verify'), 1)
 
 WebUI.click(findTestObject('Page Checkout/btn Place Order and do Payment'))
 
+WebUI.closeBrowser()
+

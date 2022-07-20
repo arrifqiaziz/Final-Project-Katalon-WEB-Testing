@@ -31,3 +31,5 @@ if (WebUI.verifyElementClickable(findTestObject('Header/Cart'), FailureHandling.
     WebUI.click(findTestObject('Page Cart/btn Continue Shopping'))
 }
 
+WebUI.closeBrowser()
+

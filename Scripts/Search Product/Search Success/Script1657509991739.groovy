@@ -21,21 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
-WebUI.click(findTestObject('Menu Bar/Menu Register Now'))
+WebUI.setText(findTestObject('Header/Search Product'), 'cap')
 
-WebUI.setText(findTestObject('Page Register/Input Username'), 'arrifqi7')
+WebUI.click(findTestObject('Header/Search Product'))
 
-WebUI.setText(findTestObject('Page Register/Input Email'), 'arrifqi7@gmail.com')
+WebUI.verifyElementPresent(findTestObject('Header/Suggestion Search Cap'), 1)
 
-WebUI.setText(findTestObject('Page Register/Input Phone'), '082111178380')
+WebUI.click(findTestObject('Header/Suggestion Search Cap'))
 
-WebUI.setText(findTestObject('Page Register/Input Password'), 'Arrifqi123!')
+WebUI.verifyElementText(findTestObject('Header/Search Result Cap'), 'Cap')
 
-WebUI.setText(findTestObject('Page Register/Input Confirm Password'), 'Arrifqi123!')
-
-WebUI.setText(findTestObject('Page Register/Input Address'), 'Bogor')
-
-WebUI.click(findTestObject('Page Register/btn Register'))
-
-WebUI.verifyElementPresent(findTestObject('Page User Dashboard/Side Menu Dasboard'), 1)
+WebUI.closeBrowser()
 
